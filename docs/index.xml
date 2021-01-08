@@ -1,11 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>YB&#39;s Blog</title>
+        <title>YB的博客</title>
         <link>https://ybcan.github.io/</link>
-        <description>Recent content on YB&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Thu, 07 Jan 2021 23:36:14 +0800</lastBuildDate><atom:link href="https://ybcan.github.io/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
+        <description>YB的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 08 Jan 2021 22:53:41 &#43;0800</lastBuildDate>
+            <atom:link href="https://ybcan.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_blog</title>
+    <link>https://ybcan.github.io/posts/first_blog/</link>
+    <pubDate>Fri, 08 Jan 2021 22:53:41 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ybcan.github.io/posts/first_blog/</guid>
+    <description><![CDATA[#Hello,World!]]></description>
+</item></channel>
 </rss>
